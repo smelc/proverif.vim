@@ -19,4 +19,4 @@ Use this to get the colors right (if your terminal does not support 256 colors, 
 
 Here's the mode in action:
 
-![proverif vim mode](http://i.imgur.com/9IEoDmK.png)
+![proverif vim mode](http://i.imgur.com/JBz02jz.png)
