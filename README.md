@@ -16,3 +16,7 @@ Use this to get the colors right (if your terminal does not support 256 colors, 
 ```
 " set t_Co=256
 ```
+
+Here's the mode in action:
+
+![proverif vim mode](http://i.imgur.com/9IEoDmK.png)
